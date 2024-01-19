@@ -89,8 +89,7 @@ p{
 }
 
 .ft-p{
-   /* font-family: 'Figtree', sans-serif;*/
-    font-weight: 600; 
+   font-weight: 600; 
 }
 
 .th-p{
@@ -110,7 +109,7 @@ p{
     cursor: pointer;
 }
 
-.auther{
+.author{
     display:flex;
     flex-direction: row;
     justify-content: center;
