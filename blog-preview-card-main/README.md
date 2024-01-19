@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./design/Blog preview card.png)
+(Blog-preview-card.png)
 
 ### Links
 - Solution URL: [github](https://your-solution-url.com)
