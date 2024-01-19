@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-(Blog-preview-card.png)
+![Blog-preview-card](https://github.com/reemalnaji/blog-preview-card/assets/74336506/c509f686-c711-4b87-927d-6e13b09fbf14)
 
 ### Links
 - Solution URL: [github](https://your-solution-url.com)
